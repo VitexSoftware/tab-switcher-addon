@@ -170,7 +170,7 @@ web-ext run
 
 ### Prerequisites
 
-- **Firefox** 57.0 or later
+- **Firefox** 140.0 or later
 - **GNU Make** (optional, for packaging)
 - **web-ext** (optional, for development workflow)
 
@@ -209,8 +209,8 @@ No data is collected, stored, or transmitted. The extension operates entirely lo
 
 | Browser | Supported | Notes |
 |---|---|---|
-| Firefox | ✅ 57.0+ | Full support (Manifest V2, Gecko engine) |
-| Firefox ESR | ✅ 57.0+ | Full support |
+| Firefox | ✅ 140.0+ | Full support (Manifest V2, Gecko engine) |
+| Firefox ESR | ✅ 140.0+ | Full support |
 | Chrome | ❌ | Uses `browser.*` APIs (Firefox-specific) |
 | Edge | ❌ | Uses `browser.*` APIs (Firefox-specific) |
 
